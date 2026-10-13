@@ -1,0 +1,3 @@
+Ideas for trying a Git client:
+- Rename this file.
+- Edit this line and review the diff.
